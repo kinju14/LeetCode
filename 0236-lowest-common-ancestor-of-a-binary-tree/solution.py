@@ -20,8 +20,8 @@ class Solution:
 
             if leftLCA and rightLCA: return node
 
-            if leftLCA: return leftLCA 
-            else: return rightLCA
+            else:
+                return leftLCA or rightLCA
         
         z = findLCA(root, p.val, q.val)
         return z
