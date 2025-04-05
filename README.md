@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="120" alt="growing plant">
-</p>
-
 <h1 align="center">🌿 LeetCode Garden – Kinjal’s Coding Growth Log 🌿</h1>
 
 <p align="center">
